@@ -1,0 +1,55 @@
+﻿if (element.BusinessProcessElementStatus == BusinessProcessElementStatus.CompletedSuccessfully)
+            return;
+
+            this is error prune
+
+            set data provider for a business process
+            how to send data in body
+
+
+how to trigger a business process
+business process instance
+implementing event start
+
+
+handling exceptions
+
+
+fetch business process content
+fetch business process description
+fetch buisness process element by id and type
+implementing event getaway
+implementing timer
+implementing compensation tasks
+how to trigger a business process and pass data to it
+
+
+sending / receiving data(parameters)
+
+
+store the state of the business process between execution
+
+implementation of service tasks
+implementation of http tasks
+implementaion of parallel getaway
+implementaion of inclusive getaway
+implementaion of exclusive getaway
+implementaion of events
+connect bpmn to business process
+
+
+
+DESC of DATA MODELING
+Data Modeling
+A traditional requirement of Process modeling is to be able to model the items (physical or information items) that are
+created, manipulated, and used during the execution of a Process.
+This requirement is realized in BPMN through various constructs: 
+  - Data Objects
+  - ItemDefinition
+  - Properties
+  - Data Inputs
+  - Data Outputs
+  - Messages
+  - Input Sets
+  - Output Sets
+  - Data Associations.
